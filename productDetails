@@ -1,0 +1,8 @@
+{
+  "result" : {
+      "id": 2,
+      "name": "Smartphone Stand",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Smartphone+Stand",
+      "price": 17.5
+  }
+}
