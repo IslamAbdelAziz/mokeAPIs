@@ -1,0 +1,244 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Wireless+Headphones",
+      "price": 13.75
+    },
+    {
+      "id": 2,
+      "name": "Smartphone Stand",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Smartphone+Stand",
+      "price": 17.5
+    },
+    {
+      "id": 3,
+      "name": "Bluetooth Speaker",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Bluetooth+Speaker",
+      "price": 21.25
+    },
+    {
+      "id": 4,
+      "name": "Laptop Backpack",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Laptop+Backpack",
+      "price": 25.0
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Smartwatch",
+      "price": 28.75
+    },
+    {
+      "id": 6,
+      "name": "USB-C Hub",
+      "image": "https://dummyimage.com/600x400/000/fff&text=USB-C+Hub",
+      "price": 32.5
+    },
+    {
+      "id": 7,
+      "name": "Mechanical Keyboard",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Mechanical+Keyboard",
+      "price": 36.25
+    },
+    {
+      "id": 8,
+      "name": "Gaming Mouse",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Gaming+Mouse",
+      "price": 40.0
+    },
+    {
+      "id": 9,
+      "name": "External Hard Drive 1TB",
+      "image": "https://dummyimage.com/600x400/000/fff&text=External+Hard+Drive+1TB",
+      "price": 43.75
+    },
+    {
+      "id": 10,
+      "name": "4K Monitor",
+      "image": "https://dummyimage.com/600x400/000/fff&text=4K+Monitor",
+      "price": 47.5
+    },
+    {
+      "id": 11,
+      "name": "Webcam",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Webcam",
+      "price": 51.25
+    },
+    {
+      "id": 12,
+      "name": "Portable Charger",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Portable+Charger",
+      "price": 55.0
+    },
+    {
+      "id": 13,
+      "name": "Wireless Earbuds",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Wireless+Earbuds",
+      "price": 58.75
+    },
+    {
+      "id": 14,
+      "name": "LED Desk Lamp",
+      "image": "https://dummyimage.com/600x400/000/fff&text=LED+Desk+Lamp",
+      "price": 62.5
+    },
+    {
+      "id": 15,
+      "name": "Fitness Tracker",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Fitness+Tracker",
+      "price": 66.25
+    },
+    {
+      "id": 16,
+      "name": "Noise Cancelling Headphones",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Noise+Cancelling+Headphones",
+      "price": 70.0
+    },
+    {
+      "id": 17,
+      "name": "Ergonomic Chair",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Ergonomic+Chair",
+      "price": 73.75
+    },
+    {
+      "id": 18,
+      "name": "Standing Desk",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Standing+Desk",
+      "price": 77.5
+    },
+    {
+      "id": 19,
+      "name": "Wi-Fi Router",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Wi-Fi+Router",
+      "price": 81.25
+    },
+    {
+      "id": 20,
+      "name": "Smart Light Bulb",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Smart+Light+Bulb",
+      "price": 85.0
+    },
+    {
+      "id": 21,
+      "name": "Tablet",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Tablet",
+      "price": 88.75
+    },
+    {
+      "id": 22,
+      "name": "Drawing Tablet",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Drawing+Tablet",
+      "price": 92.5
+    },
+    {
+      "id": 23,
+      "name": "Drone",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Drone",
+      "price": 96.25
+    },
+    {
+      "id": 24,
+      "name": "Action Camera",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Action+Camera",
+      "price": 100.0
+    },
+    {
+      "id": 25,
+      "name": "VR Headset",
+      "image": "https://dummyimage.com/600x400/000/fff&text=VR+Headset",
+      "price": 103.75
+    },
+    {
+      "id": 26,
+      "name": "Microphone",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Microphone",
+      "price": 107.5
+    },
+    {
+      "id": 27,
+      "name": "Ring Light",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Ring+Light",
+      "price": 111.25
+    },
+    {
+      "id": 28,
+      "name": "Smart Thermostat",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Smart+Thermostat",
+      "price": 115.0
+    },
+    {
+      "id": 29,
+      "name": "Coffee Maker",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Coffee+Maker",
+      "price": 118.75
+    },
+    {
+      "id": 30,
+      "name": "Electric Kettle",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Electric+Kettle",
+      "price": 122.5
+    },
+    {
+      "id": 31,
+      "name": "Air Purifier",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Air+Purifier",
+      "price": 126.25
+    },
+    {
+      "id": 32,
+      "name": "Projector",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Projector",
+      "price": 130.0
+    },
+    {
+      "id": 33,
+      "name": "Robot Vacuum",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Robot+Vacuum",
+      "price": 133.75
+    },
+    {
+      "id": 34,
+      "name": "Smart Door Lock",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Smart+Door+Lock",
+      "price": 137.5
+    },
+    {
+      "id": 35,
+      "name": "Security Camera",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Security+Camera",
+      "price": 141.25
+    },
+    {
+      "id": 36,
+      "name": "Portable SSD",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Portable+SSD",
+      "price": 145.0
+    },
+    {
+      "id": 37,
+      "name": "Graphics Tablet",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Graphics+Tablet",
+      "price": 148.75
+    },
+    {
+      "id": 38,
+      "name": "Mechanical Pencil",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Mechanical+Pencil",
+      "price": 152.5
+    },
+    {
+      "id": 39,
+      "name": "3D Printer",
+      "image": "https://dummyimage.com/600x400/000/fff&text=3D+Printer",
+      "price": 156.25
+    },
+    {
+      "id": 40,
+      "name": "Electric Toothbrush",
+      "image": "https://dummyimage.com/600x400/000/fff&text=Electric+Toothbrush",
+      "price": 160.0
+    }
+  ]
+}
