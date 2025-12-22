@@ -1,0 +1,61 @@
+{
+"result": [
+  {
+    "id": 1001,
+    "placementDate": "Dec 18, 2024",
+    "shippingStatus": "preparing",
+    "shippingVendor": "dhl",
+    "paymentType": "online",
+    "grandTotal": 89.97
+  },
+  {
+    "id": 1002,
+    "placementDate": "Dec 19, 2024",
+    "shippingStatus": "onTheWay",
+    "shippingVendor": "ups",
+    "paymentType": "cach",
+    "grandTotal": 45.99
+  },
+  {
+    "id": 1003,
+    "placementDate": "Dec 20, 2024",
+    "shippingStatus": "delivered",
+    "shippingVendor": "dhl",
+    "paymentType": "online",
+    "grandTotal": 129.5
+  },
+  {
+    "id": 1004,
+    "placementDate": "Dec 21, 2024",
+    "shippingStatus": "cancelled",
+    "shippingVendor": "ups",
+    "paymentType": "cach",
+    "grandTotal": 32.0
+  },
+  {
+    "id": 1005,
+    "placementDate": "Dec 22, 2024",
+    "shippingStatus": "onTheWay",
+    "shippingVendor": "dhl",
+    "paymentType": "online",
+    "grandTotal": 210.75
+  },
+  {
+    "id": 1006,
+    "placementDate": "Dec 23, 2024",
+    "shippingStatus": "preparing",
+    "shippingVendor": "ups",
+    "paymentType": "cach",
+    "grandTotal": 18.4
+  },
+  {
+    "id": 1007,
+    "placementDate": "Dec 24, 2024",
+    "shippingStatus": "delivered",
+    "shippingVendor": "ups",
+    "paymentType": "online",
+    "grandTotal": 64.99
+  }
+]
+
+}
